@@ -134,3 +134,4 @@ Minat: Web Development, Sistem Pakar, dan Kecerdasan Buatan
 ⭐ *Silakan gunakan atau kembangkan proyek ini untuk pembelajaran.*
 # expert-system-main
 # expert-system-main
+# expertsystem
