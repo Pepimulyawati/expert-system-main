@@ -125,9 +125,7 @@ http://localhost:8080
 
 ## 👤 Author
 
-**Bayyinahtun Dwi Sumatri**
-Mahasiswa Ilmu Komputer
-Minat: Web Development, Sistem Pakar, dan Kecerdasan Buatan
+**Pepi Mulyawati**
 
 ---
 
